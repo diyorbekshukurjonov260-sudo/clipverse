@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diyorbekshukurjonov260-sudo.github.io/clipverse/sitemap.xml
